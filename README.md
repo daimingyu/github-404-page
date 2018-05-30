@@ -1,14 +1,12 @@
 ## github_404_page
 
 ![Alt text](https://raw.githubusercontent.com/daimingyu/photos/master/g_404.gif)
-___
 
 ## 一、前言
 
-效果预览 : [Github-404](https://github.com/vajoy/master/index.html)
-参考文章一 : [Kong Cheng - 仿github404页面特效](https://segmentfault.com/a/1190000010288250)
+效果预览 : [Github-404](https://github.com/vajoy/master/index.html)<br>
+参考文章一 : [Kong Cheng - 仿github404页面特效](https://segmentfault.com/a/1190000010288250)<br>
 参考文章二 : [VaJoy Larn - 扒皮GitHub 404的图片层次轴动特效](https://www.cnblogs.com/vajoy/p/3901526.html)
-作品地址：[Dai Mingyu - Design Github 404](https://github.com/daimingyu/github_404_page)
 
 ## 二、文件夹
 
