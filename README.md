@@ -4,7 +4,7 @@
 
 ## 一、前言
 
-效果预览 : [Github-404](https://github.com/vajoy/master/index.html)<br>
+效果预览 : [Github-404](https://segmentfault.com/a/1190000010288250)<br>
 参考文章一 : [Kong Cheng - 仿github404页面特效](https://segmentfault.com/a/1190000010288250)<br>
 参考文章二 : [VaJoy Larn - 扒皮GitHub 404的图片层次轴动特效](https://www.cnblogs.com/vajoy/p/3901526.html)
 
